@@ -14,7 +14,7 @@
     "react-top-loading-bar": "^2.3.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://zarfaa.github.io/News_App/",
+  "homepage": "https://zarfaa.github.io/React_News_App/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

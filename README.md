@@ -1,14 +1,12 @@
-## React_News_App
+# React_News_App
 News App built with reactJs 
 
-# installation
+## installation
 Install dependencies: npm install
 Start the server: npm start
 
-# Tech Stack
+## Tech Stack
 React
 React Router
 Bootstrap
 News API
-.
-
